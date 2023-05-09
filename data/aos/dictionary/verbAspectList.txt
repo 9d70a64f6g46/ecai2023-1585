@@ -1,0 +1,5 @@
+boot up
+navigate
+set up
+shut down
+start up

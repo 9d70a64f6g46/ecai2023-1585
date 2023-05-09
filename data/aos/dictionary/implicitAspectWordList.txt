@@ -1,0 +1,7 @@
+price
+quality
+weight
+size
+time
+performance
+volume
