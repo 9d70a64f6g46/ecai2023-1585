@@ -55,7 +55,5 @@
 
    Now the folder has provided the data used in our experiment. If you want to extract AOS from the data our experimental data, you can skip this step. If you want to conduct experiments on new data, this step is required.
 
-   For more details on our Stage One classifier, please refer to [[Sun et al.@Internetware2022]](https://github.com/xiaobo-lab/EASTER)
-
 2. run python3 main.py to extract AOS Triple 
 
